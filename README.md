@@ -32,6 +32,6 @@ We cam add e,phasis to the tesct with *asteriks* to create italics or **bold** t
        
 ## Links to other places
 [Google Search](https://www.google.com/)
-[Website #2](Website2)
+[Website_2](Website2)
 
 [subsection example](#subsection-example).
