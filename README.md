@@ -1,12 +1,12 @@
 # CS3017-F25
 Basic Web Page for CS-3017
 
-# About this class
+# About this class {#about}
 This class is about designing a good website.
 
 This will now be a second paragraph on the website.
 
-## This is a subsection
+## This is a subsection {#subsection-example}
 We cam add e,phasis to the tesct with *asteriks* to create italics or **bold** text or ***both***
 
 ## Examople quotation
@@ -33,3 +33,5 @@ We cam add e,phasis to the tesct with *asteriks* to create italics or **bold** t
 ## Links to other places
 [Google Search](https://www.google.com/)
 [Website #2](Website#2)
+
+[subsection example](#subsection-example).
