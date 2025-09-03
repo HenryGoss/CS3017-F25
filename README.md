@@ -30,3 +30,6 @@ We cam add e,phasis to the tesct with *asteriks* to create italics or **bold** t
  4. This is the third item
     1. This is the first item in a sublist
        
+## Links to other places
+[Google Search](https://www.google.com/)
+[Website #2](Website#2)
