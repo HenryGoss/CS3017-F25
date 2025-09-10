@@ -9,7 +9,7 @@ This will now be a second paragraph on the website.
 ## This is a subsection {#subsection-example}
 We cam add e,phasis to the tesct with *asteriks* to create italics or **bold** text or ***both***
 
-## Examople quotation
+## Examaple quotation
 > This is a quote that will show up offset from other text
 > This is still part of the quote.
 >
@@ -35,3 +35,6 @@ We cam add e,phasis to the tesct with *asteriks* to create italics or **bold** t
 [Website_2](Website2)
 
 [subsection example](#subsection-example).
+
+# Example Image
+![One tree with orage leaves inb the fall](trees.jpg)
